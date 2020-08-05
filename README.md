@@ -1,8 +1,6 @@
-# coursera-c-plus-plus-development
+# Основы разработки на современном C++ Specialization
 
-Основы разработки на современном C++ Specialization
-
-Специализация Основы разработки на современном C++ by Moscow Institute of Physics and Technology & Yandex
+## Специализация Основы разработки на современном C++ by Moscow Institute of Physics and Technology & Yandex
 
 Об этой специализации
 
