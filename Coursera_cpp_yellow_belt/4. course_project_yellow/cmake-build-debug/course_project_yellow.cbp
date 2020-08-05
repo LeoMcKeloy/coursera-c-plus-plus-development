@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="course_project_yellow"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/leo/CLionProjects/course_project_yellow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/leo/CLionProjects/course_project_yellow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/leo/CLionProjects/course_project_yellow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="course_project_yellow">
+				<Option output="/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/course_project_yellow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/leo/CLionProjects/course_project_yellow/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 course_project_yellow"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="course_project_yellow/fast">
+				<Option output="/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/course_project_yellow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/leo/CLionProjects/course_project_yellow/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 course_project_yellow/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/condition_parser.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/condition_parser.h">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/condition_parser_test.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/database.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/database.h">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/database_test.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/date.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/date.h">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/date_test.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/main.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/node.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/node.h">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/node_test.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/token.cpp">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/token.h">
+			<Option target="course_project_yellow"/>
+		</Unit>
+		<Unit filename="/home/leo/CLionProjects/course_project_yellow/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

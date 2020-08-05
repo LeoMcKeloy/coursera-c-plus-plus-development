@@ -1,0 +1,3 @@
+/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leo/CLionProjects/course_project_yellow/cmake-build-debug/CMakeFiles/course_project_yellow.dir
